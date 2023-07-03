@@ -2,5 +2,5 @@
 $host="localhost:2023";
 $user="root";
 $password="";
-$database="carpool2";
+$database="carpool";
 ?>
