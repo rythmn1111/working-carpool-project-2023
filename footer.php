@@ -1,6 +1,6 @@
 <?php
 /*
- * Footer for all pages 
+ * Footer for all pages oi
  */
 ?>  <div id="push"></div>
     </div> <!-- /wrap -->
