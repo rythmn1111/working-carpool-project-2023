@@ -1,6 +1,6 @@
 <?php
 /*
- * Footer for all pages lmfao
+ * Footer for all pages 
  */
 ?>  <div id="push"></div>
     </div> <!-- /wrap -->
